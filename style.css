@@ -1,0 +1,5 @@
+ /*estilo responsive del carrusel */
+ .carousel-inner img {
+    width: 400px !important;
+    
+  }

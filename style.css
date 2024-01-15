@@ -1,5 +1,6 @@
  /*estilo responsive del carrusel */
  .carousel-inner img {
-    width: 400px !important;
+    width: 580px !important;
+    border-radius: 10px;
     
   }
